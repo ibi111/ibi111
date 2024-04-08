@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ ibtsam sadiq
-- 👀 I’m interested in Mashine learning, Deep learning , object detection...
+- 👀 I’m interested in Machine learning, Deep learning , object detection...
 - 🌱 I’m currently learning Deep learning Frameworks
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me ... ibtsam.sadiq01@gmail.com
