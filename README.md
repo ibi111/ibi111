@@ -22,31 +22,35 @@ I'm eager to collaborate on innovative **Machine Learning** and **AI** projects,
 ### 📫 Contact Me  
 - **Email:** ibtsam.sadiq01@gmail.com  
 - **LinkedIn:** [Ibtsam Sadiq](https://www.linkedin.com/in/ibtsam-sadiq/)  
-- **Simpla App:** [app.simpla.ai](https://app.simpla.ai)  
-- **Talina Project:** [jobs.talina.ai](https://jobs.talina.ai)  
 
 ---
 
 ## 📜 Selected Projects  
 
-### 1. **RAG-Based Image Search Engine**  
+### 1. **Talina**  
+- Revamped the legacy codebase to reduce coupling and improve modularity.  
+- Implemented Dockerized microservices for text-to-image and language translation functionalities.  
+- Enhanced system scalability for seamless job management.  
+- **URL:** [Talina Project](https://jobs.talina.ai)  
+
+### 2. **Simpla**  
+- Integrated intelligent chatbots into a Django-based tax and accounting advisor.  
+- Incorporated KPI measurements from CSV data and conducted graph analysis.  
+- Improved functionality for business clients, including **Emirates**, and reduced manual processing time by 90%.  
+- **URL:** [Simpla App](https://app.simpla.ai)  
+
+### 3. **RAG-Based Image Search Engine**  
 - Built a robust image search engine using **open-source models** like Llama-3.1 90B.  
 - Designed dynamic pipelines for continuous data incorporation.  
 - Reduced search latency significantly while enhancing relevance.  
 
-### 2. **Human Activity Recognition System** *(HEC Funded)*  
+### 4. **Human Activity Recognition System** *(HEC Funded)*  
 - Developed a CNN-LSTM-based system for analyzing noisy sensory data.  
 - Published a research paper in **ICCoR 2024** and collaborated on a **React** and **Flask** platform for real-time data collection.  
 
-### 3. **DroppTv Microservices**  
-- Implemented **text-to-image** and **language translation** features as **Dockerized microservices** for an Aramco-funded project.  
-
-### 4. **GemScholar**  
+### 5. **GemScholar**  
 - Built a Python-based tool for creating personalized emails for graduate admissions.  
 - Scraped professor data to auto-generate insightful profiles and email drafts.  
-
-### 5. **Family Bank Management System**  
-- Designed a **multi-user session management** system for family financial management.  
 
 ---
 
@@ -73,7 +77,3 @@ I'm eager to collaborate on innovative **Machine Learning** and **AI** projects,
 ## 🌟 Fun Facts  
 - I enjoy **gardening** and have developed a 1-canal exotic fruit forest.  
 - Love bike riding and exploring new terrains.  
-
----
-
-This updated README reflects your experience, skills, and achievements more comprehensively while maintaining a professional tone. It also includes proper formatting and links for better engagement!
