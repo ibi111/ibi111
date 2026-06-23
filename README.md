@@ -1,5 +1,5 @@
 # Ibtsam Sadiq
-AI/ML Engineer — building production-grade CV, LLM, and agentic systems.
+AI/ML Engineer, building production-grade CV, LLM, and agentic systems.
 
 Currently: MSc Data Science & Machine Learning @ Carl von Ossietzky Universität Oldenburg  
 Working: AI Engineer @ About Software GmbH, Karlsruhe
@@ -46,7 +46,7 @@ Python — PyTorch — YOLO — LangChain — LangGraph — FastAPI — Docker �
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/ibtsamsadiq01) · 
-[HuggingFace](https://huggingface.co/ibtsamsadiq) · 
+[HuggingFace](https://huggingface.co/ibtsam) · 
 [Kaggle](https://www.kaggle.com/ibtsamsadiq) · 
 ibtsam.sadiq01@gmail.com
 
