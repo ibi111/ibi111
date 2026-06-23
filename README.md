@@ -1,79 +1,59 @@
+# Ibtsam Sadiq
+AI/ML Engineer — building production-grade CV, LLM, and agentic systems.
 
-# 👋 Hi, I’m Ibtsam Sadiq  
-
-### 👀 About Me  
-I'm a passionate **AI/ML Engineer** with expertise in machine learning, deep learning, and building scalable applications. I thrive on solving challenging real-world problems using advanced technologies.  
-
-### 🌱 Currently Learning  
-- Deep Learning Frameworks  
-- Retrieval-Augmented Generation (RAG) Applications  
-- Fine-tuning and LangChain  
-
-### 💼 Professional Experience  
-- **AI/ML Engineer at Techtics.ai**  
-  - Developed scalable RAG-based solutions and chatbot integrations.  
-  - Designed efficient pipelines for data processing and retrieval.  
-  - Enhanced functionality for business clients, including **Emirates**.  
-  - Delivered key improvements to reduce operation times by over 85%.  
-
-### 💞️ Collaboration Opportunities  
-I'm eager to collaborate on innovative **Machine Learning** and **AI** projects, especially those focusing on RAG, computer vision, or NLP.  
-
-### 📫 Contact Me  
-- **Email:** ibtsam.sadiq01@gmail.com  
-- **LinkedIn:** [Ibtsam Sadiq](https://www.linkedin.com/in/ibtsam-sadiq/)  
+Currently: MSc Data Science & Machine Learning @ Carl von Ossietzky Universität Oldenburg  
+Working: AI Engineer @ About Software GmbH, Karlsruhe
 
 ---
 
-## 📜 Selected Projects  
+## Work
 
-### 1. **Talina**  
-- Revamped the legacy codebase to reduce coupling and improve modularity.  
-- Implemented Dockerized microservices for text-to-image and language translation functionalities.  
-- Enhanced system scalability for seamless job management.  
-- **URL:** [Talina Project](https://jobs.talina.ai)  
+**About Software GmbH** — Work Student AI Engineer *(Oct 2025 – Present)*  
+Architected batch processing and prompt-caching pipelines cutting client LLM costs by ~75% (€30–40k → €7–10k/month).
 
-### 2. **Simpla**  
-- Integrated intelligent chatbots into a Django-based tax and accounting advisor.  
-- Incorporated KPI measurements from CSV data and conducted graph analysis.  
-- Improved functionality for business clients, including **Emirates**, and reduced manual processing time by 90%.  
-- **URL:** [Simpla App](https://app.simpla.ai)  
+**Techtics.ai** — AI/ML Engineer *(Aug 2023 – Sep 2025)*
 
-### 3. **RAG-Based Image Search Engine**  
-- Built a robust image search engine using **open-source models** like Llama-3.1 90B.  
-- Designed dynamic pipelines for continuous data incorporation.  
-- Reduced search latency significantly while enhancing relevance.  
+- Built a JSON-editing copilot for 100k users reducing latency from 90s to under 10s using a detector-generator pipeline
+- Designed and deployed a multi-tenant RAG platform with strict data isolation across user organizations using AWS and open-source vector databases
+- Built an AI-powered data extraction and insight generation system processing structured and unstructured business data with LLM pipelines
+- Developed AI chatbots integrated with KPI analytics and graph analysis, reducing manual processing by 90% for finance and accounting clients
+- Implemented Dockerized text-to-image and multilingual translation microservices, refactoring a legacy monolith into modular architecture
+- Built an image search engine for a RAG system using open-source LLMs and dynamic ingestion pipelines
+---
 
-### 4. **Human Activity Recognition System** *(HEC Funded)*  
-- Developed a CNN-LSTM-based system for analyzing noisy sensory data.  
-- Published a research paper in **ICCoR 2024** and collaborated on a **React** and **Flask** platform for real-time data collection.  
+## Projects
 
-### 5. **GemScholar**  
-- Built a Python-based tool for creating personalized emails for graduate admissions.  
-- Scraped professor data to auto-generate insightful profiles and email drafts.  
+**[market-structure-cv](https://github.com/ibtsamsadiq/market-structure-cv)**  
+End-to-end CV pipeline detecting Fair Value Gaps in NQ futures charts using YOLO. 92.3% mAP@50 on test set. 80+ model downloads in 3 days.  
+`Python` `YOLO` `FastAPI` `Docker` `Gradio` `HuggingFace`
+
+**Human Activity Recognition** — HEC Funded Research  
+CNN-LSTM model on wearable sensor data achieving 98.5% accuracy. Published in IJIST journal.  
+`Python` `PyTorch` `CNN-LSTM`
+
+**RAG Image Search Engine**  
+Built with open-source LLMs and dynamic ingestion pipelines. Deployed at scale with AWS.  
+`Python` `LangChain` `Llama` `AWS` `Docker`
 
 ---
 
-## 🛠️ Technical Skills  
+## Stack
 
-- **Programming Languages:** Python, C/C++, Java, JavaScript, SQL  
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Hugging Face, LangChain  
-- **Web Development:** Flask, Django, FastAPI, Streamlit, HTML/CSS, JavaScript  
-- **Databases:** MySQL, PostgreSQL, Redis, Faiss, Chroma, Pinecone  
-- **Cloud:** AWS (EC2, S3, RDS, ECR, VPC, DynamoDB)  
-- **Tools:** Git, Docker, Postman, CI/CD, Stripe, LaTeX  
+Python — PyTorch — YOLO — LangChain — LangGraph — FastAPI — Docker — AWS — PostgreSQL — Redis
 
 ---
 
-## 🏆 Achievements  
+## Links
 
-- Winner of **Build with AI Hackathon** at Nutec 2024, Fast Peshawar.  
-- Runner-up at Nutec, Fast Islamabad with a cash prize of 30,000 PKR.  
-- Selected for the **Prime Minister Laptop Scheme 2023** (Top 2/50 students).  
-- Ranked **Top 10** at PUCON with the **Brain Bots** AI Team.  
+[LinkedIn](https://www.linkedin.com/in/ibtsamsadiq01) · 
+[HuggingFace](https://huggingface.co/ibtsamsadiq) · 
+[Kaggle](https://www.kaggle.com/ibtsamsadiq) · 
+ibtsam.sadiq01@gmail.com
 
 ---
 
-## 🌟 Fun Facts  
-- I enjoy **gardening** and have developed a 1-canal exotic fruit forest.  
-- Love bike riding and exploring new terrains.  
+## Recognition
+
+- Winner — Build with AI Hackathon, Nutec 2024 (FAST Peshawar)
+- Runner-up — Nutec FAST Islamabad (30,000 PKR prize)
+- Prime Minister Laptop Scheme 2023 — top 2 of 50 students
